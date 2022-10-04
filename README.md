@@ -1,3 +1,3 @@
-# Working-with-files-in-Python
+# Coding Ninjas Projects
 
-This repository includes scripts to analyze small datasets using various Python libraries. 
+This repository contains all the data analysis projects completed as part of the Coding Ninjas Data Science course.
