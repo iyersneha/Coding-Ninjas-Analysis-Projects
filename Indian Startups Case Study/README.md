@@ -3,6 +3,7 @@ Analysis of Indian Startups data uing Python.
 
 Dataset Details:
 This dataset has funding information of the Indian startups from January 2015 to August 2017.
+
 Feature Details :
 SNo - Serial number.
 
@@ -24,4 +25,10 @@ AmountInUSD - Funding Amount in USD.
 
 Remarks - Other information, if any.
 
-Insights:
+Some insights from the analysis:
+- Bangalore has most number of startups in India followed by Mumbai and New Delhi. 
+- Most of the companies are private equity funded. 
+- Ecommerce is the most popular industry and received most fundings followed by Consumer Internet and Technology industries. 
+- Paytm received the maxium amount of fundings in this time period(Jan 2015 to AUG 2017) followed by Flipkart and Ola. 
+- Ola received 9 rounds of funding in the period, which is the highest. Swiggy comes close at 7 rounds. 
+- Sequoia Capital has invested the maxiumum number of times. It has also invested in around 45 different startups(the highest).
