@@ -1,6 +1,4 @@
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://github.com/iyersneha/Coding-Ninjas-Analysis-Projects/blob/main/Indian%20Startups%20Case%20Study/Case%20Study%20-%20I.ipynb)
 
 Analysis of Indian Startups data uing Python. 
 
